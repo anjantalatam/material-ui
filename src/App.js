@@ -1,6 +1,6 @@
 import React from "react";
 import Material from "./Material";
-import Material1 from "./Material1";
+// import Material1 from "./Material1";
 
 function App() {
   return (
