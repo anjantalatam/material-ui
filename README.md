@@ -5,5 +5,5 @@ Run:
 2. cd to material-ui(the name of this repo.)
 3. npm start
 
-View it live on
+View it live on:
 https://anjant-materialui.netlify.app/
